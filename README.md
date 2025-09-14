@@ -27,12 +27,10 @@ Users should be able to:
 #### Rating page
 
 ![](./homepage.png)
-above.
 
 #### success page
 
 ![](./success-page.png)
-above.
 
 ### Links
 
